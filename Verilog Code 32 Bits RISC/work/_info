@@ -1,0 +1,822 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v
+vAdder
+!s110 1557162403
+!i10b 1
+!s100 _Y9naz`eQnI3<<LPEg34D2
+Iek>VmRRofg0cER?AhNRZU3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1524343832
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/Adder.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/Adder.v
+L0 3
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1557162403.000000
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/Adder.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/Adder.v|
+!s101 -O0
+!i113 1
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@adder
+vaddexp
+Z4 !s110 1557162404
+!i10b 1
+!s100 LfCo6OO>TUdA;;<;fZoK=1
+Im`L35Ha;jU9_]g74ERKdC2
+R1
+R0
+w1524341724
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/addexp.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/addexp.v
+L0 3
+R2
+r1
+!s85 0
+31
+Z5 !s108 1557162404.000000
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/addexp.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/addexp.v|
+!s101 -O0
+!i113 1
+R3
+vALU
+R4
+!i10b 1
+!s100 bO;E;ej:Pfa@N`nM;oEL80
+IJINojVFPXF6T7mnReL:kg0
+R1
+R0
+w1524338624
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/ALU.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/ALU.v
+L0 3
+R2
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/ALU.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/ALU.v|
+!s101 -O0
+!i113 1
+R3
+n@a@l@u
+vdataMemory
+R4
+!i10b 1
+!s100 g57E5RC0ln:PVFH11NL<U3
+Iiz6GDP2hh<3SMe_O]4SRQ2
+R1
+R0
+w1524336730
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/data_mem.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/data_mem.v
+L0 3
+R2
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/data_mem.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/data_mem.v|
+!s101 -O0
+!i113 1
+R3
+ndata@memory
+vDataPath
+R4
+!i10b 1
+!s100 H0H<:SJaBl3YUIej0XRa81
+IMnFZ9QlUG^aQ?mTFGUz_11
+R1
+R0
+w1524338706
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/DP.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/DP.v
+L0 3
+R2
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/DP.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/DP.v|
+!s101 -O0
+!i113 1
+R3
+n@data@path
+vdataPath_tb
+R4
+!i10b 1
+!s100 PR6`GCBR^g4X<_59Y^_b02
+I2m<Vc3K_o;8Ifz_^edG041
+R1
+R0
+w1524344004
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v
+L0 2
+R2
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v|
+!s101 -O0
+!i113 1
+R3
+ndata@path_tb
+vexpaddadjust
+R4
+!i10b 1
+!s100 TVMFg6>2<IN8Y<e;a=>7o3
+Ifa3blh9EWaKX:^?[YS[3:0
+R1
+R0
+w1524341692
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/expaddadjust.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/expaddadjust.v
+L0 3
+R2
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/expaddadjust.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/expaddadjust.v|
+!s101 -O0
+!i113 1
+R3
+vflip_flop
+R4
+!i10b 1
+!s100 3?c0;z3A=bQRQk4W^>So=3
+IYi6@iz]DdgK^WlIaGmBVM2
+R1
+R0
+w1524338302
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop.v
+L0 3
+R2
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop.v|
+!s101 -O0
+!i113 1
+R3
+vflip_flop_32
+R4
+!i10b 1
+!s100 mG09Lab:FzM4iOOkJ@dA62
+IJ9=QoXVfJclB:Tka<NVf@1
+R1
+R0
+w1524336924
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop_32.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop_32.v
+L0 3
+R2
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop_32.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop_32.v|
+!s101 -O0
+!i113 1
+R3
+vflip_flop_5
+R4
+!i10b 1
+!s100 CIaRWh23?5X:7h@cG^YAh2
+I3T[T8n_R<?j<Hk4WfcSk_2
+R1
+R0
+w1524336900
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop_5.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop_5.v
+L0 3
+R2
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop_5.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop_5.v|
+!s101 -O0
+!i113 1
+R3
+vFloatAdder
+R4
+!i10b 1
+!s100 m:AJ`cNCJ48M6=@NhTAaF2
+I`nXEgLhK9?kMCHPAKDTL]2
+R1
+R0
+w1524338940
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatadd.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatadd.v
+L0 3
+R2
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatadd.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatadd.v|
+!s101 -O0
+!i113 1
+R3
+n@float@adder
+vfloatcalcadd
+R4
+!i10b 1
+!s100 >68`KfUHT5JIFJbGNF65H1
+I7R]@zWPDFn>LLo4>gXV8a2
+R1
+R0
+w1524341654
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcalc.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcalc.v
+L0 3
+R2
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcalc.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcalc.v|
+!s101 -O0
+!i113 1
+R3
+vfloatcmp
+Z6 !s110 1557162405
+!i10b 1
+!s100 8[YCi7X]S=GOM;7nR1Pm_0
+IEN9NMdlOPHg^nEkUXHbfK3
+R1
+R0
+w1524338800
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcmp.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcmp.v
+L0 3
+R2
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcmp.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcmp.v|
+!s101 -O0
+!i113 1
+R3
+vfloatfractest
+R6
+!i10b 1
+!s100 Je5O3DfENN?R:X=1f;zM72
+ISB77d1047_bU6dCBf?O@@2
+R1
+R0
+w1524341860
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatfractest.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatfractest.v
+L0 3
+R2
+r1
+!s85 0
+31
+Z7 !s108 1557162405.000000
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatfractest.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatfractest.v|
+!s101 -O0
+!i113 1
+R3
+vfloatingmultiplier
+R6
+!i10b 1
+!s100 kIgR6jm5>9KOKYS75OnN02
+IG8>BWP8Kn=W]PH6jCHL_G3
+R1
+R0
+w1524008072
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatingmultiplier.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatingmultiplier.v
+Z8 L0 23
+R2
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatingmultiplier.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatingmultiplier.v|
+!s101 -O0
+!i113 1
+R3
+vfloatmux
+R6
+!i10b 1
+!s100 :_X6?<Gl0Wb]98Z]L@>k80
+I=Y=Y=4Dj0abWXUW2E9z]z0
+R1
+R0
+w1524341602
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatmux.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatmux.v
+L0 4
+R2
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatmux.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatmux.v|
+!s101 -O0
+!i113 1
+R3
+vfloatshift
+R6
+!i10b 1
+!s100 KW`hmQd4VEcXbCiRXZQW?2
+IjRTSY9SMa1]N8eZKf;k5o3
+R1
+R0
+w1524341620
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatshift.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatshift.v
+L0 3
+R2
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatshift.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatshift.v|
+!s101 -O0
+!i113 1
+R3
+vfloattesting
+R6
+!i10b 1
+!s100 C9b;Vk15JLe;[8YL61U>=1
+InG7Ed?Gh0_bXLfej09>l]1
+R1
+R0
+w1524341876
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatingtest.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatingtest.v
+L0 3
+R2
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatingtest.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatingtest.v|
+!s101 -O0
+!i113 1
+R3
+vfmtocpu
+Z9 !s110 1557162406
+!i10b 1
+!s100 DJ9ZddaVMlAoDSI>LUTZ<2
+ITJh5Vll;UaXjoF[MZRDmd2
+R1
+R0
+w1524341762
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/ouflow.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/ouflow.v
+L0 3
+R2
+r1
+!s85 0
+31
+Z10 !s108 1557162406.000000
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/ouflow.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/ouflow.v|
+!s101 -O0
+!i113 1
+R3
+vfracmult
+R6
+!i10b 1
+!s100 9Q[e3jL0fG2:iI[S:]3`B2
+I4N2L<nMzzb>0S:IPmW<]<0
+R1
+R0
+w1524341796
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatmult.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatmult.v
+L0 3
+R2
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatmult.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatmult.v|
+!s101 -O0
+!i113 1
+R3
+vIMemory
+R6
+!i10b 1
+!s100 6A_nb2OU[oRD0PCTQ<lHI0
+IK<[HQ2HQ>dOb1>a:4dmmf0
+R1
+R0
+w1525186626
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/IMem.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/IMem.v
+L0 5
+R2
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/IMem.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/IMem.v|
+!s101 -O0
+!i113 1
+R3
+n@i@memory
+vInstructionRegister
+R6
+!i10b 1
+!s100 Y3W@GZM_8kCWC6mA32;b62
+I5DmSDPZUX==V;8CkBD=Ze0
+R1
+R0
+w1524337388
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/IR.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/IR.v
+L0 3
+R2
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/IR.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/IR.v|
+!s101 -O0
+!i113 1
+R3
+n@instruction@register
+vmultsign
+R6
+!i10b 1
+!s100 ViI3BC75Y`3?nDhK0JA483
+IEddEhK<@A1Fa6_@b@531W1
+R1
+R0
+Z11 w1512033626
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/multsign.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/multsign.v
+R8
+R2
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/multsign.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/multsign.v|
+!s101 -O0
+!i113 1
+R3
+vmux2to1
+R6
+!i10b 1
+!s100 3lN@GkVmD034QVcY][VZg3
+I:1O:1mF;Nkc]>[n0TcZzU1
+R1
+R0
+w1524338240
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/mux2to1.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/mux2to1.v
+L0 3
+R2
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/mux2to1.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/mux2to1.v|
+!s101 -O0
+!i113 1
+R3
+vmux2to1_test
+R9
+!i10b 1
+!s100 F]lN:;cA>i`mSL`h;0h@61
+IlMCIeA0>4>Hc4JL6@RM1>3
+R1
+R0
+R11
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/mux2to1_test.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/mux2to1_test.v
+R8
+R2
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/mux2to1_test.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/mux2to1_test.v|
+!s101 -O0
+!i113 1
+R3
+vmux3to1
+R9
+!i10b 1
+!s100 bRg0TKfmQS6^eaf52Y;6N2
+ICOMcaRSN0`Qm?fO429cmC2
+R1
+R0
+w1524337412
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/mux3to1.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/mux3to1.v
+L0 3
+R2
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/mux3to1.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/mux3to1.v|
+!s101 -O0
+!i113 1
+R3
+vnormalizeadd
+R9
+!i10b 1
+!s100 gO2h_]V8BYm5eg]>WoXn21
+I1f0G;fRk54Fn0=iEG=z>N0
+R1
+R0
+w1524341666
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalizeadd.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalizeadd.v
+L0 4
+R2
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalizeadd.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalizeadd.v|
+!s101 -O0
+!i113 1
+R3
+vnormalmult
+R9
+!i10b 1
+!s100 ]F1d1KNdL`6M4iAUN[jE`0
+ImBXN=YdlNhM1Z<jSfCk:W0
+R1
+R0
+w1524341822
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalmult.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalmult.v
+L0 3
+R2
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalmult.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalmult.v|
+!s101 -O0
+!i113 1
+R3
+vnormmultexp
+R9
+!i10b 1
+!s100 WKdjfX<>UnfBoZTZJO;Th0
+I8^hkA?c>Wo>KdhCicLOVQ0
+R1
+R0
+w1524341954
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normmultexp.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normmultexp.v
+L0 3
+R2
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normmultexp.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normmultexp.v|
+!s101 -O0
+!i113 1
+R3
+vOPC_Decoder
+R9
+!i10b 1
+!s100 7zOTo>2<zL_IBVjSf:=lA2
+I8Z:_dRCfE=9VY`1;NL>Q_0
+R1
+R0
+w1524339058
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/OPC_Decoder.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/OPC_Decoder.v
+L0 3
+R2
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/OPC_Decoder.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/OPC_Decoder.v|
+!s101 -O0
+!i113 1
+R3
+n@o@p@c_@decoder
+vPC
+R9
+!i10b 1
+!s100 Gf>1=C><G0H3hDX25jm1=0
+Iz8ei3flSABcI9Cz_VffaD3
+R1
+R0
+w1524344084
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/PC.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/PC.v
+L0 2
+R2
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/PC.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/PC.v|
+!s101 -O0
+!i113 1
+R3
+n@p@c
+vPC_test
+R9
+!i10b 1
+!s100 C_g<`UCdnA<D1KP;?C^n33
+IiNlIGlWX[Fnn[M[BH7QA11
+R1
+R0
+w1524344908
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/PC_test.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/PC_test.v
+L0 3
+R2
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/PC_test.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/PC_test.v|
+!s101 -O0
+!i113 1
+R3
+n@p@c_test
+vrealexp
+R9
+!i10b 1
+!s100 g79F<>c3<zZUe1a=gh:Jm1
+IP41GGFlhVEe@6H`Y=J4?P3
+R1
+R0
+w1524341706
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/realexp.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/realexp.v
+L0 3
+R2
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/realexp.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/realexp.v|
+!s101 -O0
+!i113 1
+R3
+vrealmultexp
+R9
+!i10b 1
+!s100 XZ]TVo>cDLTUSXCOK]k_[1
+IQG:IZ;nX=fe16aclCATWz0
+R1
+R0
+w1524341742
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/realmultexp.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/realmultexp.v
+L0 3
+R2
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/realmultexp.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/realmultexp.v|
+!s101 -O0
+!i113 1
+R3
+vregisterFile
+Z12 !s110 1557162407
+!i10b 1
+!s100 BOIJUek9]=CF6CMgTG5IF3
+IG`iez;m]VSW=nU__0MAKA2
+R1
+R0
+w1524336848
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/reg_file.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/reg_file.v
+L0 3
+R2
+r1
+!s85 0
+31
+Z13 !s108 1557162407.000000
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/reg_file.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/reg_file.v|
+!s101 -O0
+!i113 1
+R3
+nregister@file
+vShifter
+R12
+!i10b 1
+!s100 U8W;WEoC6nlnY`N@3P:Jc2
+Iia<GFPdTnfGY[:mkN9PGg1
+R1
+R0
+w1524338340
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/Shifter.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/Shifter.v
+L0 3
+R2
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/Shifter.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/Shifter.v|
+!s101 -O0
+!i113 1
+R3
+n@shifter
+vShifter_test
+R12
+!i10b 1
+!s100 H:@d<UNIJ9521Z50h1aI>0
+I5dO:;;7P@bOhHHK1MJ0JJ2
+R1
+R0
+R11
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/Shifter_test.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/Shifter_test.v
+R8
+R2
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/Shifter_test.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/Shifter_test.v|
+!s101 -O0
+!i113 1
+R3
+n@shifter_test
+vtruncmult
+R12
+!i10b 1
+!s100 S3R0cF;lm0IEgdK4IIBfA3
+I]`Y`G2@<Cc1E@@@HCzNoE0
+R1
+R0
+w1524341836
+8C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/truncmult.v
+FC:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/truncmult.v
+L0 3
+R2
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/truncmult.v|
+!s90 -reportprogress|300|-work|work|C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/truncmult.v|
+!s101 -O0
+!i113 1
+R3

@@ -1,0 +1,846 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# OpenFile {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v}
+vlib work
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/Adder.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:43 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/Adder.v 
+# -- Compiling module Adder
+# 
+# Top level modules:
+# 	Adder
+# End time: 10:06:44 on May 06,2019, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/addexp.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:44 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/addexp.v 
+# -- Compiling module addexp
+# 
+# Top level modules:
+# 	addexp
+# End time: 10:06:44 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/ALU.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:44 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/ALU.v 
+# -- Compiling module ALU
+# 
+# Top level modules:
+# 	ALU
+# End time: 10:06:44 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/data_mem.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:44 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/data_mem.v 
+# -- Compiling module dataMemory
+# 
+# Top level modules:
+# 	dataMemory
+# End time: 10:06:44 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/DP.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:44 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/DP.v 
+# -- Compiling module DataPath
+# 
+# Top level modules:
+# 	DataPath
+# End time: 10:06:44 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:44 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v 
+# -- Compiling module dataPath_tb
+# 
+# Top level modules:
+# 	dataPath_tb
+# End time: 10:06:44 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/expaddadjust.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:44 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/expaddadjust.v 
+# -- Compiling module expaddadjust
+# 
+# Top level modules:
+# 	expaddadjust
+# End time: 10:06:44 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:44 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop.v 
+# -- Compiling module flip_flop
+# 
+# Top level modules:
+# 	flip_flop
+# End time: 10:06:44 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop_5.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:44 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop_5.v 
+# -- Compiling module flip_flop_5
+# 
+# Top level modules:
+# 	flip_flop_5
+# End time: 10:06:44 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop_32.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:44 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop_32.v 
+# -- Compiling module flip_flop_32
+# 
+# Top level modules:
+# 	flip_flop_32
+# End time: 10:06:44 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatadd.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:44 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatadd.v 
+# -- Compiling module FloatAdder
+# 
+# Top level modules:
+# 	FloatAdder
+# End time: 10:06:44 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcalc.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:44 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcalc.v 
+# -- Compiling module floatcalcadd
+# 
+# Top level modules:
+# 	floatcalcadd
+# End time: 10:06:44 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcmp.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:44 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcmp.v 
+# -- Compiling module floatcmp
+# 
+# Top level modules:
+# 	floatcmp
+# End time: 10:06:45 on May 06,2019, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatfractest.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:45 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatfractest.v 
+# -- Compiling module floatfractest
+# 
+# Top level modules:
+# 	floatfractest
+# End time: 10:06:45 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatingmultiplier.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:45 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatingmultiplier.v 
+# -- Compiling module floatingmultiplier
+# 
+# Top level modules:
+# 	floatingmultiplier
+# End time: 10:06:45 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatingtest.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:45 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatingtest.v 
+# -- Compiling module floattesting
+# 
+# Top level modules:
+# 	floattesting
+# End time: 10:06:45 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatmult.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:45 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatmult.v 
+# -- Compiling module fracmult
+# 
+# Top level modules:
+# 	fracmult
+# End time: 10:06:45 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatmux.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:45 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatmux.v 
+# -- Compiling module floatmux
+# 
+# Top level modules:
+# 	floatmux
+# End time: 10:06:45 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatshift.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:45 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatshift.v 
+# -- Compiling module floatshift
+# 
+# Top level modules:
+# 	floatshift
+# End time: 10:06:45 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/IMem.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:45 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/IMem.v 
+# -- Compiling module IMemory
+# 
+# Top level modules:
+# 	IMemory
+# End time: 10:06:45 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/IR.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:45 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/IR.v 
+# -- Compiling module InstructionRegister
+# 
+# Top level modules:
+# 	InstructionRegister
+# End time: 10:06:45 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/multsign.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:45 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/multsign.v 
+# -- Compiling module multsign
+# 
+# Top level modules:
+# 	multsign
+# End time: 10:06:45 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/mux2to1.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:45 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/mux2to1.v 
+# -- Compiling module mux2to1
+# 
+# Top level modules:
+# 	mux2to1
+# End time: 10:06:45 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/mux2to1_test.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:46 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/mux2to1_test.v 
+# -- Compiling module mux2to1_test
+# 
+# Top level modules:
+# 	mux2to1_test
+# End time: 10:06:46 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/mux3to1.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:46 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/mux3to1.v 
+# -- Compiling module mux3to1
+# 
+# Top level modules:
+# 	mux3to1
+# End time: 10:06:46 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalizeadd.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:46 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalizeadd.v 
+# -- Compiling module normalizeadd
+# 
+# Top level modules:
+# 	normalizeadd
+# End time: 10:06:46 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalmult.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:46 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalmult.v 
+# -- Compiling module normalmult
+# 
+# Top level modules:
+# 	normalmult
+# End time: 10:06:46 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normmultexp.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:46 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normmultexp.v 
+# -- Compiling module normmultexp
+# 
+# Top level modules:
+# 	normmultexp
+# End time: 10:06:46 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/OPC_Decoder.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:46 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/OPC_Decoder.v 
+# -- Compiling module OPC_Decoder
+# 
+# Top level modules:
+# 	OPC_Decoder
+# End time: 10:06:46 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/ouflow.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:46 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/ouflow.v 
+# -- Compiling module fmtocpu
+# 
+# Top level modules:
+# 	fmtocpu
+# End time: 10:06:46 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/PC.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:46 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/PC.v 
+# -- Compiling module PC
+# 
+# Top level modules:
+# 	PC
+# End time: 10:06:46 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/PC_test.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:46 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/PC_test.v 
+# -- Compiling module PC_test
+# 
+# Top level modules:
+# 	PC_test
+# End time: 10:06:46 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/realexp.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:46 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/realexp.v 
+# -- Compiling module realexp
+# 
+# Top level modules:
+# 	realexp
+# End time: 10:06:46 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/realmultexp.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:46 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/realmultexp.v 
+# -- Compiling module realmultexp
+# 
+# Top level modules:
+# 	realmultexp
+# End time: 10:06:46 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/reg_file.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:47 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/reg_file.v 
+# -- Compiling module registerFile
+# ** Warning: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/reg_file.v(15): (vlog-2182) 'rf' might be read before written in always_comb or always @* block.
+# 
+# 
+# Top level modules:
+# 	registerFile
+# End time: 10:06:47 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/Shifter.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:47 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/Shifter.v 
+# -- Compiling module Shifter
+# 
+# Top level modules:
+# 	Shifter
+# End time: 10:06:47 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/Shifter_test.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:47 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/Shifter_test.v 
+# -- Compiling module Shifter_test
+# 
+# Top level modules:
+# 	Shifter_test
+# End time: 10:06:47 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/truncmult.v}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 10:06:47 on May 06,2019
+# vlog -reportprogress 300 -work work C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/truncmult.v 
+# -- Compiling module truncmult
+# 
+# Top level modules:
+# 	truncmult
+# End time: 10:06:47 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim work.dataPath_tb
+# //  ModelSim PE Student Edition 10.4a Apr  7 2015 
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -gui C:\Users\O'Prime\Desktop\CMPE 220\RISC\Mru\CMPE 200 Project Files\only v\dptb.v 
+# Start time: 10:06:59 on May 06,2019
+# Loading work.dataPath_tb
+# Loading work.DataPath
+# Loading work.PC
+# Loading work.IMemory
+# Loading work.InstructionRegister
+# Loading work.flip_flop
+# Loading work.OPC_Decoder
+# Loading work.registerFile
+# Loading work.ALU
+# Loading work.mux3to1
+# Loading work.FloatAdder
+# Loading work.floatcmp
+# Loading work.floatmux
+# Loading work.floatshift
+# Loading work.floatcalcadd
+# Loading work.normalizeadd
+# Loading work.expaddadjust
+# Loading work.floatingmultiplier
+# Loading work.multsign
+# Loading work.realexp
+# Loading work.addexp
+# Loading work.normmultexp
+# Loading work.realmultexp
+# Loading work.fmtocpu
+# Loading work.fracmult
+# Loading work.truncmult
+# Loading work.dataMemory
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/DP.v(59): [PCDPC] - Port size (5) does not match connection size (32) for port 'AIn3'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/reg_file.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/rf File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/reg_file.v
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatadd.v(23): [PCDPC] - Port size (25) does not match connection size (24) for port 'sum'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcalc.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/fadd/FCA File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcalc.v
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatadd.v(26): [PCDPC] - Port size (25) does not match connection size (24) for port 'in'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalizeadd.v(5).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/fadd/NA File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalizeadd.v
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/DP.v(126): [PCDPC] - Port size (32) does not match connection size (5) for port 'd'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/alu_phase_rd File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop.v
+run
+# Finished
+# ** Note: $stop    : C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v(16)
+#    Time: 255 ns  Iteration: 0  Instance: /dataPath_tb
+# Break in Module dataPath_tb at C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v line 16
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/pc/clk
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/pc/reset
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/im/AIn
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/im/DOut
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/ir/RD
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/ir/Data
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/ir/OPC
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/ir/clk
+add wave -position insertpoint sim:/dataPath_tb/DUT/ir_phase/*
+run -all
+# Finished
+# ** Note: $stop    : C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v(16)
+#    Time: 510 ns  Iteration: 0  Instance: /dataPath_tb
+# Break in Module dataPath_tb at C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v line 16
+quit -sim
+vsim work.dataPath_tb
+# vsim 
+# Start time: 10:14:06 on May 06,2019
+# Loading work.dataPath_tb
+# Loading work.DataPath
+# Loading work.PC
+# Loading work.IMemory
+# Loading work.InstructionRegister
+# Loading work.flip_flop
+# Loading work.OPC_Decoder
+# Loading work.registerFile
+# Loading work.ALU
+# Loading work.mux3to1
+# Loading work.FloatAdder
+# Loading work.floatcmp
+# Loading work.floatmux
+# Loading work.floatshift
+# Loading work.floatcalcadd
+# Loading work.normalizeadd
+# Loading work.expaddadjust
+# Loading work.floatingmultiplier
+# Loading work.multsign
+# Loading work.realexp
+# Loading work.addexp
+# Loading work.normmultexp
+# Loading work.realmultexp
+# Loading work.fmtocpu
+# Loading work.fracmult
+# Loading work.truncmult
+# Loading work.dataMemory
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/DP.v(59): [PCDPC] - Port size (5) does not match connection size (32) for port 'AIn3'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/reg_file.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/rf File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/reg_file.v
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatadd.v(23): [PCDPC] - Port size (25) does not match connection size (24) for port 'sum'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcalc.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/fadd/FCA File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcalc.v
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatadd.v(26): [PCDPC] - Port size (25) does not match connection size (24) for port 'in'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalizeadd.v(5).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/fadd/NA File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalizeadd.v
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/DP.v(126): [PCDPC] - Port size (32) does not match connection size (5) for port 'd'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/alu_phase_rd File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop.v
+add wave -position insertpoint sim:/dataPath_tb/DUT/*
+run
+# Finished
+# ** Note: $stop    : C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v(16)
+#    Time: 255 ns  Iteration: 0  Instance: /dataPath_tb
+# Break in Module dataPath_tb at C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v line 16
+vsim work.dataMemory
+# vsim 
+# Start time: 12:48:11 on May 07,2019
+# Loading work.dataMemory
+quit -sim
+vsim work.IMemory
+# vsim 
+# Start time: 12:49:15 on May 07,2019
+# Loading work.IMemory
+quit -sim
+vsim work.dataPath_tb
+# vsim 
+# Start time: 13:00:30 on May 07,2019
+# Loading work.dataPath_tb
+# Loading work.DataPath
+# Loading work.PC
+# Loading work.IMemory
+# Loading work.InstructionRegister
+# Loading work.flip_flop
+# Loading work.OPC_Decoder
+# Loading work.registerFile
+# Loading work.ALU
+# Loading work.mux3to1
+# Loading work.FloatAdder
+# Loading work.floatcmp
+# Loading work.floatmux
+# Loading work.floatshift
+# Loading work.floatcalcadd
+# Loading work.normalizeadd
+# Loading work.expaddadjust
+# Loading work.floatingmultiplier
+# Loading work.multsign
+# Loading work.realexp
+# Loading work.addexp
+# Loading work.normmultexp
+# Loading work.realmultexp
+# Loading work.fmtocpu
+# Loading work.fracmult
+# Loading work.truncmult
+# Loading work.dataMemory
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/DP.v(59): [PCDPC] - Port size (5) does not match connection size (32) for port 'AIn3'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/reg_file.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/rf File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/reg_file.v
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatadd.v(23): [PCDPC] - Port size (25) does not match connection size (24) for port 'sum'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcalc.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/fadd/FCA File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcalc.v
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatadd.v(26): [PCDPC] - Port size (25) does not match connection size (24) for port 'in'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalizeadd.v(5).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/fadd/NA File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalizeadd.v
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/DP.v(126): [PCDPC] - Port size (32) does not match connection size (5) for port 'd'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/alu_phase_rd File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop.v
+add wave -position insertpoint sim:/dataPath_tb/DUT/*
+run -all
+# Finished
+# ** Note: $stop    : C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v(16)
+#    Time: 255 ns  Iteration: 0  Instance: /dataPath_tb
+# Break in Module dataPath_tb at C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v line 16
+quit -sim
+vsim work.dataPath_tb
+# vsim 
+# Start time: 16:04:58 on May 07,2019
+# Loading work.dataPath_tb
+# Loading work.DataPath
+# Loading work.PC
+# Loading work.IMemory
+# Loading work.InstructionRegister
+# Loading work.flip_flop
+# Loading work.OPC_Decoder
+# Loading work.registerFile
+# Loading work.ALU
+# Loading work.mux3to1
+# Loading work.FloatAdder
+# Loading work.floatcmp
+# Loading work.floatmux
+# Loading work.floatshift
+# Loading work.floatcalcadd
+# Loading work.normalizeadd
+# Loading work.expaddadjust
+# Loading work.floatingmultiplier
+# Loading work.multsign
+# Loading work.realexp
+# Loading work.addexp
+# Loading work.normmultexp
+# Loading work.realmultexp
+# Loading work.fmtocpu
+# Loading work.fracmult
+# Loading work.truncmult
+# Loading work.dataMemory
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/DP.v(59): [PCDPC] - Port size (5) does not match connection size (32) for port 'AIn3'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/reg_file.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/rf File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/reg_file.v
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatadd.v(23): [PCDPC] - Port size (25) does not match connection size (24) for port 'sum'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcalc.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/fadd/FCA File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcalc.v
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatadd.v(26): [PCDPC] - Port size (25) does not match connection size (24) for port 'in'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalizeadd.v(5).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/fadd/NA File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalizeadd.v
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/DP.v(126): [PCDPC] - Port size (32) does not match connection size (5) for port 'd'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/alu_phase_rd File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop.v
+add wave -position insertpoint sim:/dataPath_tb/DUT/*
+run -all
+# Finished
+# ** Note: $stop    : C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v(16)
+#    Time: 255 ns  Iteration: 0  Instance: /dataPath_tb
+# Break in Module dataPath_tb at C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v line 16
+quit -sim
+vsim work.dataPath_tb
+# vsim 
+# Start time: 16:14:32 on May 07,2019
+# Loading work.dataPath_tb
+# Loading work.DataPath
+# Loading work.PC
+# Loading work.IMemory
+# Loading work.InstructionRegister
+# Loading work.flip_flop
+# Loading work.OPC_Decoder
+# Loading work.registerFile
+# Loading work.ALU
+# Loading work.mux3to1
+# Loading work.FloatAdder
+# Loading work.floatcmp
+# Loading work.floatmux
+# Loading work.floatshift
+# Loading work.floatcalcadd
+# Loading work.normalizeadd
+# Loading work.expaddadjust
+# Loading work.floatingmultiplier
+# Loading work.multsign
+# Loading work.realexp
+# Loading work.addexp
+# Loading work.normmultexp
+# Loading work.realmultexp
+# Loading work.fmtocpu
+# Loading work.fracmult
+# Loading work.truncmult
+# Loading work.dataMemory
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/DP.v(59): [PCDPC] - Port size (5) does not match connection size (32) for port 'AIn3'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/reg_file.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/rf File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/reg_file.v
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatadd.v(23): [PCDPC] - Port size (25) does not match connection size (24) for port 'sum'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcalc.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/fadd/FCA File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcalc.v
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatadd.v(26): [PCDPC] - Port size (25) does not match connection size (24) for port 'in'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalizeadd.v(5).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/fadd/NA File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalizeadd.v
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/DP.v(126): [PCDPC] - Port size (32) does not match connection size (5) for port 'd'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/alu_phase_rd File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop.v
+add wave -position insertpoint sim:/dataPath_tb/DUT/pc/*
+add wave -position insertpoint sim:/dataPath_tb/DUT/decoder/#ALWAYS#7/*
+add wave -position insertpoint sim:/dataPath_tb/DUT/im/*
+add wave -position insertpoint sim:/dataPath_tb/DUT/ir/*
+add wave -position insertpoint sim:/dataPath_tb/DUT/alu/*
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/pc/clk
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/pc/Count
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/im/DOut
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/ir/Data
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/alu/DOut
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/alu/Drs1
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/alu/Drs2
+run -all
+# Finished
+# ** Note: $stop    : C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v(16)
+#    Time: 255 ns  Iteration: 0  Instance: /dataPath_tb
+# Break in Module dataPath_tb at C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v line 16
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/rf_phase_opc/reset
+add wave -position insertpoint sim:/dataPath_tb/DUT/alu/*
+add wave -position insertpoint sim:/dataPath_tb/DUT/mem/#ALWAYS#14/*
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/mem/DIn
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/mem/dmemory
+quit -sim
+vsim work.dataPath_tb
+# vsim 
+# Start time: 16:31:55 on May 07,2019
+# Loading work.dataPath_tb
+# Loading work.DataPath
+# Loading work.PC
+# Loading work.IMemory
+# Loading work.InstructionRegister
+# Loading work.flip_flop
+# Loading work.OPC_Decoder
+# Loading work.registerFile
+# Loading work.ALU
+# Loading work.mux3to1
+# Loading work.FloatAdder
+# Loading work.floatcmp
+# Loading work.floatmux
+# Loading work.floatshift
+# Loading work.floatcalcadd
+# Loading work.normalizeadd
+# Loading work.expaddadjust
+# Loading work.floatingmultiplier
+# Loading work.multsign
+# Loading work.realexp
+# Loading work.addexp
+# Loading work.normmultexp
+# Loading work.realmultexp
+# Loading work.fmtocpu
+# Loading work.fracmult
+# Loading work.truncmult
+# Loading work.dataMemory
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/DP.v(59): [PCDPC] - Port size (5) does not match connection size (32) for port 'AIn3'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/reg_file.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/rf File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/reg_file.v
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatadd.v(23): [PCDPC] - Port size (25) does not match connection size (24) for port 'sum'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcalc.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/fadd/FCA File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcalc.v
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatadd.v(26): [PCDPC] - Port size (25) does not match connection size (24) for port 'in'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalizeadd.v(5).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/fadd/NA File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalizeadd.v
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/DP.v(126): [PCDPC] - Port size (32) does not match connection size (5) for port 'd'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/alu_phase_rd File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop.v
+run -all
+# Finished
+# ** Note: $stop    : C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v(16)
+#    Time: 255 ns  Iteration: 0  Instance: /dataPath_tb
+# Break in Module dataPath_tb at C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v line 16
+quit -sim
+vsim work.dataPath_tb
+# vsim 
+# Start time: 16:50:30 on May 07,2019
+# Loading work.dataPath_tb
+# Loading work.DataPath
+# Loading work.PC
+# Loading work.IMemory
+# Loading work.InstructionRegister
+# Loading work.flip_flop
+# Loading work.OPC_Decoder
+# Loading work.registerFile
+# Loading work.ALU
+# Loading work.mux3to1
+# Loading work.FloatAdder
+# Loading work.floatcmp
+# Loading work.floatmux
+# Loading work.floatshift
+# Loading work.floatcalcadd
+# Loading work.normalizeadd
+# Loading work.expaddadjust
+# Loading work.floatingmultiplier
+# Loading work.multsign
+# Loading work.realexp
+# Loading work.addexp
+# Loading work.normmultexp
+# Loading work.realmultexp
+# Loading work.fmtocpu
+# Loading work.fracmult
+# Loading work.truncmult
+# Loading work.dataMemory
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/DP.v(59): [PCDPC] - Port size (5) does not match connection size (32) for port 'AIn3'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/reg_file.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/rf File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/reg_file.v
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatadd.v(23): [PCDPC] - Port size (25) does not match connection size (24) for port 'sum'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcalc.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/fadd/FCA File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcalc.v
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatadd.v(26): [PCDPC] - Port size (25) does not match connection size (24) for port 'in'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalizeadd.v(5).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/fadd/NA File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalizeadd.v
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/DP.v(126): [PCDPC] - Port size (32) does not match connection size (5) for port 'd'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/alu_phase_rd File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop.v
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/pc/Count
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/pc/clk
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/pc/reset
+add wave -position insertpoint sim:/dataPath_tb/DUT/alu/*
+add wave -position insertpoint sim:/dataPath_tb/DUT/mem/*
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/im/AIn
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/im/DOut
+run -all
+# Finished
+# ** Note: $stop    : C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v(16)
+#    Time: 255 ns  Iteration: 0  Instance: /dataPath_tb
+# Break in Module dataPath_tb at C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v line 16
+quit -sim
+vsim work.dataPath_tb
+# vsim 
+# Start time: 18:16:09 on May 07,2019
+# Loading work.dataPath_tb
+# Loading work.DataPath
+# Loading work.PC
+# Loading work.IMemory
+# Loading work.InstructionRegister
+# Loading work.flip_flop
+# Loading work.OPC_Decoder
+# Loading work.registerFile
+# Loading work.ALU
+# Loading work.mux3to1
+# Loading work.FloatAdder
+# Loading work.floatcmp
+# Loading work.floatmux
+# Loading work.floatshift
+# Loading work.floatcalcadd
+# Loading work.normalizeadd
+# Loading work.expaddadjust
+# Loading work.floatingmultiplier
+# Loading work.multsign
+# Loading work.realexp
+# Loading work.addexp
+# Loading work.normmultexp
+# Loading work.realmultexp
+# Loading work.fmtocpu
+# Loading work.fracmult
+# Loading work.truncmult
+# Loading work.dataMemory
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/DP.v(59): [PCDPC] - Port size (5) does not match connection size (32) for port 'AIn3'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/reg_file.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/rf File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/reg_file.v
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatadd.v(23): [PCDPC] - Port size (25) does not match connection size (24) for port 'sum'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcalc.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/fadd/FCA File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatcalc.v
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/floatadd.v(26): [PCDPC] - Port size (25) does not match connection size (24) for port 'in'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalizeadd.v(5).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/fadd/NA File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/normalizeadd.v
+# ** Warning: (vsim-3015) C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/DP.v(126): [PCDPC] - Port size (32) does not match connection size (5) for port 'd'. The port definition is at: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /dataPath_tb/DUT/alu_phase_rd File: C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/flip_flop.v
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/pc/clk
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/pc/reset
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/im/DOut
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/alu/Opc
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/alu/DOut
+add wave -position insertpoint  \
+sim:/dataPath_tb/DUT/alu/Dimm
+run -all
+# Finished
+# ** Note: $stop    : C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v(16)
+#    Time: 255 ns  Iteration: 0  Instance: /dataPath_tb
+# Break in Module dataPath_tb at C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v line 16
+run
+# Finished
+# ** Note: $stop    : C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v(16)
+#    Time: 510 ns  Iteration: 0  Instance: /dataPath_tb
+# Break in Module dataPath_tb at C:/Users/O'Prime/Desktop/CMPE 220/RISC/Mru/CMPE 200 Project Files/only v/dptb.v line 16
+# End time: 19:12:40 on May 07,2019, Elapsed time: 0:56:31
+# Errors: 0, Warnings: 4
